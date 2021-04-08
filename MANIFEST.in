@@ -1,3 +1,4 @@
 include mytardis_openid_login/templates/login.html
 include mytardis_openid_login/static/uwa/css/default.css
 include mytardis_openid_login/static/uwa/images/*.png
+include mytardis_openid_login/static/uwa/images/*.svg
